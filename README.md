@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working in **CIOMPRIX**
 
-- 🌱 I’m currently learning **about Artificial Intelligence** and Angular v16 Signals 🤯
+- 🌱 I’m currently learning **about Artificial Intelligence** and React 
 
 - 👨‍💻 All of my projects are available at [https://portfoliosebastiancarrillo.netlify.app/](https://portfoliosebastiancarrillo.netlify.app/)
 
