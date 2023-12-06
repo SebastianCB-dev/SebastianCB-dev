@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **carrillobaronj@gmail.com**
 
-- ⚡ Fun fact **I think I am the biggest Chelsea's F.C. Fan 🤗**
+- ⚡ Fun fact **I think I am the biggest Chelsea's F.C. Fan 💙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
