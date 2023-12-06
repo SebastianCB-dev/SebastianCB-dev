@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiancb-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiancb-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastiancb-dev" alt="sebastiancb-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sebastiancb29" target="blank"><img src="https://img.shields.io/twitter/follow/sebastiancb29?logo=twitter&style=for-the-badge" alt="sebastiancb29" /></a> </p>
 
 - 🔭 I’m currently working in **CIOMPRIX**
