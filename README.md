@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joan Sebastián Carrillo Barón</h1>
-<h3 align="center">Computer System Engineer</h3>
+<h3 align="center">Computer System Engineer & Young Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiancb-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiancb-dev" /> </p>
 
