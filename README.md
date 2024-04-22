@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliosebastiancarrillo.netlify.app/](https://portfoliosebastiancarrillo.netlify.app/)
 
-- 💬 Ask me about **Angular & Node.JS**
-
 - 📫 How to reach me **carrillobaronj@gmail.com**
 
 - Up the Chels 💙**
