@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **carrillobaronj@gmail.com**
 
-- Up the Chels 💙**
+- **Up the Chels 💙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
