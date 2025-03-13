@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **?**
 
-- 🌱 I’m currently learning **about Artificial Intelligence**, Angular 19 🅰️
+- 🌱 I’m currently learning **about Artificial Intelligence**, Angular 19 🅰️ , Node.JS :)
 
 - 👨‍💻 All of my projects are available at [https://portfoliosebastiancarrillo.netlify.app/](https://portfoliosebastiancarrillo.netlify.app/)
 
