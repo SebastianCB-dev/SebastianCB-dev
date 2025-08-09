@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/sebastiancb29" target="blank"><img src="https://img.shields.io/twitter/follow/sebastiancb29?logo=twitter&style=for-the-badge" alt="Twitter Sebastian sebastiancb29" /></a> </p>
 
 - 🔭 I’m currently working at **?**
-r
+
 - 🌱 I’m currently learning **about Artificial Intelligence**, Angular 🅰️ & React ⚛️ :)
 
 - 👨‍💻 All of my projects are available at [https://portfoliosebastiancarrillo.netlify.app/](https://portfoliosebastiancarrillo.netlify.app/)
