@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 Currently working on **Machine Learning**, **NLP**, and **Full Stack Development** projects.  
+- 🔭 Currently working on **Machine Learning**, **NLP**, and **Front End Development** projects.  
 - 🌱 Learning more about **Artificial Intelligence**, **Angular 🅰️**, and **React ⚛️**.  
 - 👨‍💻 Explore my projects: [portfoliosebastiancarrillo.netlify.app](https://portfoliosebastiancarrillo.netlify.app/)  
 - 📫 Reach me at: **carrillobaronj@gmail.com**  
